@@ -38,7 +38,7 @@ This is a simple Java program for managing employee records using JDBC (Java Dat
 3. **Downloading the Program**:
     - Clone this repository to your local machine using Git.
     ```
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/meghshamkapure/jdbc-employee-management-using-statement-interface
     ```
     Or download the ZIP file and extract it to a directory on your computer.
 
