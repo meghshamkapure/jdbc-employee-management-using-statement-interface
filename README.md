@@ -62,7 +62,7 @@ This is a simple Java program for managing employee records using JDBC (Java Dat
 
 ## Author
 
-- Name: Meghsham Suresh Gaonkar
+- Name: Meghsham Vinayak Kapure
 - Phone: +91 70663 26068
 - Email: mail.meghsham@gmail.com
 
